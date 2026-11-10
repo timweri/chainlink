@@ -21,6 +21,8 @@ If you are interested in contributing please see our [contribution guidelines](.
 If you are here to report a bug or request a feature, please [check currently open Issues](https://github.com/smartcontractkit/chainlink/issues).
 For more information about how to get started with Chainlink, check our [official documentation](https://docs.chain.link/).
 
+Hi A
+
 ## Community
 
 Chainlink has an active and ever growing community. [Discord](https://discordapp.com/invite/aSK4zew)
